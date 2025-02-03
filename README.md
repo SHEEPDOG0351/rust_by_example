@@ -1,0 +1,1 @@
+This directory is made so I can work on Rust By Example between my Laptop and Pc. I've been wanting to learn Rust as a career in the crypto field as a Rust Blockchain Engineer (I think) would be a fun and profitable position to have.
